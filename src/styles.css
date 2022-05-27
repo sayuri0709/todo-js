@@ -48,8 +48,6 @@ button:hover {
   color: #666;
 }
 .list-row {
-  display: flex;
-  align-items: center;
   padding-bottom: 4px;
 }
 .list-row span {
