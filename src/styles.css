@@ -52,6 +52,6 @@ button:hover {
   align-items: center;
   padding-bottom: 4px;
 }
-.list-row p {
+.list-row span {
   margin-right: 8px;
 }
